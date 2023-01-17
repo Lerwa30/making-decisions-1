@@ -129,6 +129,14 @@ while(score < passingScore){
 
 */
 
+let changeMyMind = true;
+
+if(changeMyMind === true){
+  changeMyMind === false
+} else if(changeMyMind === false){
+  changeMyMind === true
+}
+
 //CODE HERE
 
 ////////// PROBLEM 10 //////////
