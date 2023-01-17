@@ -77,6 +77,9 @@ if(temperature >= 80 && rain === true){
   Create a for-loop that runs 10 times, and on each iteration logs the word 'hello'.
 */
 
+for(i = 0; i < 10; i++){
+  console.log("hello");
+}
 //CODE HERE
 
 ////////// PROBLEM 6 //////////
